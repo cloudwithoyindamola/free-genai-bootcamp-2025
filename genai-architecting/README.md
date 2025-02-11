@@ -1,12 +1,13 @@
 # Japanese Language Learning System
 ## Overview
-A self-hosted Japanese language learning platform supporting 300 students in Nagasaki, ensuring data privacy, cost efficiency, and seamless integration with an existing learning portal.
+A self-hosted Japanese language learning platform utilizing GenAI in supporting 300 students in Nagasaki, ensuring data privacy, cost efficiency, and seamless integration with an existing learning portal hile leveraging AI-driven capabilities for sentence construction and progress tracking..
+
 
 ### Use Cases
 - Primary focus on Japanese language education for 300 active students in Nagasaki
 - Self-hosted infrastructure for data privacy and cost control
 - Integration with existing learning portal and learning record store
-- Support for multiple learning modalities including sentence construction etc
+- Support for multiple learning modalities including Japanese sentence construction,text adventures, and visual novels
 
 #### Business Requirements
 - Support 300 active students
@@ -95,8 +96,3 @@ Key cost factors:
 - Usage monitoring and logging
 - Rate limiting and access control
 
-## Future Considerations
-- Hardware upgrade path
-- Model improvement integration
-- Scaling strategy for student growth
-- Feature expansion roadmap
