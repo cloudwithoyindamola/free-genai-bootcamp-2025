@@ -29,16 +29,16 @@ A self-hosted Japanese language learning platform supporting 300 students in Nag
 ### Infrastructure Investment
 - Budget: 10-15K for AI PC hardware
 - Self-hosted solution due to concErns about:
- - Privacy of user data
- - High increment in the cost of managed services for GenAI
+  - Privacy of user data
+  - High increment in the cost of managed services for GenAI
 - Local deployment in Nagasaki office
 
 ### Cost Management
-- Key cost factors:
-  - Hardware maintenance and updates
-  - Power consumption for AI operations
-  - Bandwidth requirements for 300 concurrent users
-  - Storage for language learning materials and user data
+Key cost factors:
+- Hardware maintenance and updates
+- Power consumption for AI operations
+- Bandwidth requirements for 300 concurrent users
+- Storage for language learning materials and user data
 
 ### Constraints
 - Budget limitation of 10-15K
