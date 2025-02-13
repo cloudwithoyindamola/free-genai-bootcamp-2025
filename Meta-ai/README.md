@@ -2,8 +2,8 @@
 
 ### Which Model ?
 
-Meta.ai is using Llama 3 70B and a Acclaimed smarter Llama 3.1 405B
-I compared the two model output
+- Meta.ai is using Llama 3 70B and an acclaimed smarter Llama 3.1 405B
+- I compared the two model output
 https://huggingface.co/meta-llama/Meta-Llama-3-70B
 
 
