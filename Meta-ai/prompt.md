@@ -90,7 +90,7 @@
  ### Score Reason 
     - GOOD: Doesn't provide verbose text at the start, and shows vocabulary immediatly
     - GOOD: Shows conceptual sentence strucutre
-    - GOOD: Clues don't give away any of the tense of conjugations
+    - GOOD: Clues don't give away any of the tense of conjugations.
     
  ### Assistant Output
  - Cheatsheet:
