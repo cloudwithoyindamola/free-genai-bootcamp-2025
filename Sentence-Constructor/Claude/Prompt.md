@@ -85,14 +85,10 @@ When the input sounds like a question about langauge learning then we can assume
 - do not provide particles in the sentence structure
 - do not provide tenses or conjugations in the sentence structure
 - remember to consider beginner level sentence structure
-- refernece the <file>sentence-structure-examples.xml</file> for good structure examples
+- refernece the <file>Sentence-structure-examples.xml</file> for good structure examples
 
 
 ### Clues and Considerations
 - try and provide a non-nested bulleted list
 - talk about the vocabulary but try to leave out the japanese words because the student can refer to the vocabulary table
-
-
-
-   
-   Student Input: Did you see the raven this morning? They were looking at our garden.
+- refernece the <file>considerations-examples.xml</file> for good consideration examples
