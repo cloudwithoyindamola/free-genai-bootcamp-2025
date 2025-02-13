@@ -18,19 +18,19 @@
 - Do not use romanji when showing japanese text, ecept in the table of Vocabulary
 
 ## Examples
-1. For the Llama 3.2 - 70B
+### 1. For the Llama 3.2 - 70B
  Here are examples of user input and assitant output, pay attention to the score because and why the example is scored the way it is.
 
- ### User input
+ #### User input
  "Bears are at the door, did you leave the garbage out?"
 
- ### Score : 4
- ### Score Reason 
+ #### Score : 4
+ #### Score Reason 
   - BAD: in the vocabulary table it did not show the japanese characters, the cells are just blank
    - BAD: the beginner sentence is uncessary, should jsut start showing the vocabulary table
     - Good: The Clues were fairly Good.
     
- ### Assistant Output
+ #### Assistant Output
   "Let's start with the transcription. I'll provide you with a table of vocabulary and some clues to help you work through it.:
 
     | Japanese | Romaji | English
@@ -51,18 +51,18 @@
  Now, try to transcribe the sentence using the vocabulary and clues provided. Good luck!"
 
 
-2. For the Llama 3.1 - 405B (Acclaimed Smarter version)
+### 2. For the Llama 3.1 - 405B (Acclaimed Smarter version)
 
- ### User input
+ #### User input
  "Bears are at the door, did you leave the garbage out?"
 
- ### Score : 6
- ### Score Reason 
+ #### Score : 6
+ #### Score Reason 
   - BAD: in the vocabulary table it did not show the japanese characters, the cells are just blank
    - GOOD: the beginner sentence sounds so encourage , willing to take the student along and ready to help
     - Good: The Clues were fairly Good.
     
- ### Assistant Output
+ #### Assistant Output
 
    "Let's break down the sentence into smaller parts and work through it together.
  Vocabulary
